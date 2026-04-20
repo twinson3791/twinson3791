@@ -1,4 +1,12 @@
 ## Hi there 👋
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=twinson3791)](https://solved.ac/twinson3791)​
+
+![twinson3791's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinson3791&show_icons=true&theme=radical)
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=twinson3791&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![twinson3791's current streak](https://streak-stats.demolab.com/?user=twinson3791&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <!--
 **twinson3791/twinson3791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
